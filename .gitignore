@@ -1,0 +1,5 @@
+.syndicate
+.syndicate-config-dev/logs
+.syndicate-config-dev/bundles
+.idea
+target
