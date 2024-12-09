@@ -1,4 +1,4 @@
-# task04
+# Lambda Handler for SQS and SNS event
 
 High level project overview - business value it brings, non-detailed technical overview.
 
